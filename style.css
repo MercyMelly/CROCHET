@@ -1,0 +1,29 @@
+h1{
+    font-weight: bold;
+    font-size: 39px;
+    text-align: center;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    background-color: bisque;
+}
+img{
+    border-radius: 20px;
+    text-align: center;
+}
+.container {
+    overflow: hidden;
+    max-width: 800px;
+    padding-left: 20px;
+
+}
+.image {
+    float: right; 
+    width: 320px; 
+    
+  }
+hr{
+    border-color: black;
+}
+  
